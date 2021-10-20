@@ -1,4 +1,4 @@
-# Desafios-Dio
+# Desafios Javascript Dio
 Desafios oferecidos no bootcamp da Dio, mais precisamente os desafios do bootcamp Impulso React Web Developer
 o primeiro desafio foi realizado em javascript
 
